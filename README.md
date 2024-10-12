@@ -19,6 +19,8 @@ Paperflite is a React Native mobile application designed to work seamlessly on b
 ![collection](https://github.com/user-attachments/assets/fc219bbc-f12c-4269-b984-b82acf6c71fe)
 ![conversation](https://github.com/user-attachments/assets/c721129f-f6cd-41f1-913a-0eae6c2d965e)
 
+<br>
+
 ## Prerequisites
 
 Before setting up the project, ensure that you have the following tools installed:
@@ -56,6 +58,7 @@ xcode-select --install
 
 6. **Android Studio**: Download and install [Android Studio](https://developer.android.com/studio). Ensure the Android SDK and Android Virtual Device (AVD) are set up properly.
 
+<br>
 
 ## Installation
 
@@ -82,7 +85,7 @@ npm install
 
 To run the iOS app:
 
-1. Navigate to the ==ios== directory and install CocoaPods dependencies:
+1. Navigate to the <mark>ios</mark> directory and install CocoaPods dependencies:
 
 ```bash
 cd ios
@@ -114,6 +117,8 @@ To run the Android app:
 ```bash
 npx react-native run-android
 ```
+
+<br>
 
 ## Project Structure
 
