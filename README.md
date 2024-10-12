@@ -1,4 +1,4 @@
-![conversation](https://github.com/user-attachments/assets/b78105de-1577-4d5a-b244-e9f6449431c3)![conversation](https://github.com/user-attachments/assets/ea76d156-5045-4de8-8e52-096f831866db)# Paperflite Native Application
+![collection](https://github.com/user-attachments/assets/fe2e8565-3f2d-40e5-aec4-769e1c66ba4f)![conversation](https://github.com/user-attachments/assets/b78105de-1577-4d5a-b244-e9f6449431c3)![conversation](https://github.com/user-attachments/assets/ea76d156-5045-4de8-8e52-096f831866db)# Paperflite Native Application
 
 Paperflite React native application for IOS and Android platforms
 
@@ -17,9 +17,11 @@ Paperflite React native application for IOS and Android platforms
 
 Paperflite is a React Native mobile application designed to work seamlessly on both iOS and Android platforms. The app allows users to manage and access Paperflite features directly from their mobile devices.
 
-![hub](https://github.com/user-attachments/assets/99aed87c-7b63-49cd-82b8-ac54a624cad8)
-![collection](https://github.com/user-attachments/assets/6fec5519-b931-4815-af79-bd04eb60276a)
-![conversation](https://github.com/user-attachments/assets/d82fdbec-f234-4c3d-b0e8-3cf86eb78f58)
+<div style="display: flex; justify-content: space-around;">
+![hub](https://github.com/user-attachments/assets/7e026503-ece1-4006-9011-9d0d6365f5b3)
+![collection](https://github.com/user-attachments/assets/fc219bbc-f12c-4269-b984-b82acf6c71fe)
+![conversation](https://github.com/user-attachments/assets/c721129f-f6cd-41f1-913a-0eae6c2d965e)
+</div>
 
 ## Prerequisites
 
