@@ -17,8 +17,6 @@ Paperflite React native application for IOS and Android platforms
 
 Paperflite is a React Native mobile application designed to work seamlessly on both iOS and Android platforms. The app allows users to manage and access Paperflite features directly from their mobile devices.
 
-![paperflite][]
-
 
 ## Prerequisites
 
