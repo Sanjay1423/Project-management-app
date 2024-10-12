@@ -2,8 +2,6 @@
 
 Paperflite React native application for IOS and Android platforms
 
----
-
 ## Table of Contents
 
 1. [Project OverView](#project-overview)
