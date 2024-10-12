@@ -1,4 +1,4 @@
-![collection](https://github.com/user-attachments/assets/fe2e8565-3f2d-40e5-aec4-769e1c66ba4f)![conversation](https://github.com/user-attachments/assets/b78105de-1577-4d5a-b244-e9f6449431c3)![conversation](https://github.com/user-attachments/assets/ea76d156-5045-4de8-8e52-096f831866db)# Paperflite Native Application
+# Paperflite Native Application
 
 Paperflite React native application for IOS and Android platforms
 
