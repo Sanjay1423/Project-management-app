@@ -117,18 +117,15 @@ npx react-native run-android
 
 Overview of Paperflite native project Structure
 
-Paperflite
-
-Paperflite
-│
-├── android             
-├── ios                 
-├── src                 
-│   ├── components      
-│   ├── screens         
-│   ├── navigation      
-│   ├── assets          
-│   └── services        
-├── App.js              
-├── package.json        
-└── README.md          
+> Paperflite
+>
+>> android
+>> ios
+>> src
+> App.js
+> package.json
+>>> components
+>>> screens 
+>>> navigation
+>>> assets
+>>> services
