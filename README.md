@@ -1,6 +1,6 @@
 # Paperflite Native Application
 
-Paperflite React native application for ios and android
+Paperflite React native application for IOS and Android platforms
 
 ---
 
@@ -11,10 +11,13 @@ Paperflite React native application for ios and android
 3. [Installation](#installation)
     - [IOS Setup](#ios-setup)
     - [Android Setup](#android-setup)
+4. [Project Structure](#project-structure)
 
 ## Project OverView
 
 Paperflite is a React Native mobile application designed to work seamlessly on both iOS and Android platforms. The app allows users to manage and access Paperflite features directly from their mobile devices.
+
+![paperflite][]
 
 
 ## Prerequisites
@@ -117,15 +120,17 @@ npx react-native run-android
 
 Overview of Paperflite native project Structure
 
-> Paperflite
->
->> android
->> ios
->> src
-> App.js
-> package.json
->>> components
->>> screens 
->>> navigation
->>> assets
->>> services
+```
+Paperflite
+│
+├── android             
+├── ios                 
+├── src                 
+│   ├── components      
+│   ├── screens         
+│   ├── navigation      
+│   ├── assets          
+│   └── services        
+├── App.js                    
+└── package.json    
+```
